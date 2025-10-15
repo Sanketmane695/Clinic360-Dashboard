@@ -16,3 +16,5 @@ Insights into invoices, outstanding payments, insurance claims, and revenue tren
 Clinical Analytics:
 Visual dashboards for patient flow, doctor performance, appointment trends, and clinic KPIs.
 
+LINK FOR PROJECT:
+https://app.powerbi.com/view?r=eyJrIjoiYmNhMGNiNjMtMmY0OC00YTAyLThiYzUtNGU4ZjE5ZWVjMTFiIiwidCI6ImRmMzQ3NjI4LTY5ZGItNGM5NC1iNGYxLWY3MjVmN2E1M2YwYSJ9
